@@ -1,0 +1,17 @@
+{
+  "name": "new_project",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de node.js del curso de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "saludos": "node saludos.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Helloworld",
+    "firstproject"
+  ],
+  "author": "Alexander Gomez",
+  "license": "ISC"
+}
